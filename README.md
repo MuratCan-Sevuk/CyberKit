@@ -40,12 +40,12 @@ Lütfen yasal sınırlar içinde kullanın.
 
 👨‍💻 Geliştirici
 Proje Sahibi: Siber Kit Ekibi:
-Hıdır Samet YALÇINKAYA
-Ayşenur BOLUKÇU
-Rüveyda Çiftci
-Beyza Nur ASİ
-Murat SEVÜK
-Uğur ÇETİNKAYA
-Zülal DEMİR
-Rana AYDOĞDU
+Hıdır Samet YALÇINKAYA, 
+Ayşenur BOLUKÇU, 
+Rüveyda Çiftci, 
+Beyza Nur ASİ, 
+Murat SEVÜK, 
+Uğur ÇETİNKAYA, 
+Zülal DEMİR, 
+Rana AYDOĞDU, 
 Serhat ÖZGAN
